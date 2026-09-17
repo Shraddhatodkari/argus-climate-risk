@@ -1,0 +1,17 @@
+asset_id,asset_name,sector,district,state,lat,lon,asset_exposure_inr_cr,is_synthetic
+A-001,Illustrative coir-processing unit (Alappuzha backwaters),MSME,Alappuzha,Kerala,9.4715,76.3702,38.5,true
+A-002,Illustrative paddy-farmer cluster (Alappuzha Kuttanad belt),Agriculture,Alappuzha,Kerala,9.5410,76.3025,14.2,true
+A-003,Illustrative spice-trading warehouse (Kozhikode port area),MSME,Kozhikode,Kerala,11.2465,75.7702,52.0,true
+A-004,Illustrative timber & furniture workshop (Kozhikode),Other,Kozhikode,Kerala,11.2830,75.8130,9.8,true
+A-005,Illustrative rice-mill cluster (Cuttack riverine belt),Agriculture,Cuttack,Odisha,20.4902,85.8510,21.0,true
+A-006,Illustrative steel-fabrication SME (Cuttack industrial estate),MSME,Cuttack,Odisha,20.4380,85.9150,64.5,true
+A-007,Illustrative coastal paddy cooperative (Puri),Agriculture,Puri,Odisha,19.8420,85.8600,17.6,true
+A-008,Illustrative beach-tourism guesthouse cluster (Puri),Other,Puri,Odisha,19.7960,85.8055,12.3,true
+A-009,"Illustrative sugarcane-farmer cluster (Latur, drought belt)",Agriculture,Latur,Maharashtra,18.4350,76.5290,11.4,true
+A-010,Illustrative auto-parts SME (Latur MIDC industrial area),MSME,Latur,Maharashtra,18.3820,76.5920,47.0,true
+A-011,"Illustrative wheat & pulses farmer cluster (Banda, Bundelkhand)",Agriculture,Banda,Uttar Pradesh,25.5090,80.3610,9.1,true
+A-012,Illustrative stone-crushing & housing SME (Banda),Other,Banda,Uttar Pradesh,25.4470,80.2990,6.7,true
+A-013,Illustrative tea-estate smallholder cluster (Kamrup),Agriculture,Kamrup,Assam,26.1720,91.7680,15.9,true
+A-014,"Illustrative bamboo & handloom SME (Kamrup, Guwahati periphery)",MSME,Kamrup,Assam,26.1180,91.7020,28.3,true
+A-015,Illustrative leather & textile SME cluster (Kanchipuram),MSME,Kanchipuram,Tamil Nadu,12.8590,79.7350,71.2,true
+A-016,Illustrative groundnut-farmer cluster (Kanchipuram),Agriculture,Kanchipuram,Tamil Nadu,12.8060,79.6710,13.5,true

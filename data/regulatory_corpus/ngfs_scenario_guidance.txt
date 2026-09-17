@@ -1,0 +1,24 @@
+[SOURCE: Network for Greening the Financial System (NGFS) — Climate Scenarios for Central
+Banks and Supervisors (guidance summary). PARAPHRASED summary for RAG pipeline development
+and testing, not a verbatim reproduction. Replace with the verbatim NGFS publication before
+any real disclosure or stress-testing use.]
+
+[DOC_ID: NGFS-SCENARIO-GUIDANCE]
+[REGULATOR: Network for Greening the Financial System (NGFS)]
+[PUBLISHED: 2023-11-01]
+[DOC_URL: https://www.ngfs.net/en/topics/scenarios]
+
+[SECTION: Scenario Families]
+NGFS scenarios are commonly grouped into Orderly (early, coordinated climate policy action),
+Disorderly (late or divergent policy action), and Hot House World (limited or no additional
+policy action, resulting in higher physical risk realization).
+
+[SECTION: Use in Financial Risk Assessment]
+Financial institutions are encouraged to use NGFS scenarios as a common reference point for
+climate stress-testing and scenario analysis, translating macro-financial variables from the
+scenarios into portfolio-level physical and transition risk impacts.
+
+[SECTION: Physical Risk Modeling Guidance]
+Physical risk modeling should account for both acute hazards (event-driven, e.g. flood or
+cyclone damage) and chronic hazards (gradual, e.g. changing precipitation or temperature
+patterns), and should be updated as hazard datasets and climate projections improve.

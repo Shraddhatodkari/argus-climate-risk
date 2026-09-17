@@ -1,0 +1,5 @@
+{"question": "What is the current repo rate set by the RBI Monetary Policy Committee?", "reason": "not covered by the indexed climate-risk corpus"}
+{"question": "What was Infosys's quarterly revenue in the most recent results?", "reason": "unrelated to the regulatory corpus"}
+{"question": "Which cryptocurrency does RBI recommend banks invest reserves in?", "reason": "fabricated premise, no such guidance exists in the corpus"}
+{"question": "What is the exact GDP growth forecast for India next year?", "reason": "out of scope for the climate disclosure corpus"}
+{"question": "According to the corpus, what specific capital surcharge (in basis points) applies to climate-exposed loans?", "reason": "no such specific figure exists in the indexed documents — must not be invented"}

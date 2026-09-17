@@ -1,0 +1,80 @@
+[project]
+name = "argus"
+version = "0.1.0"
+description = "Climate physical-risk intelligence copilot for credit portfolios"
+authors = [{ name = "Shraddha Todkari" }]
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "scikit-learn>=1.4",
+    "pandera>=0.19",
+    "streamlit>=1.37",
+    "plotly>=5.24",  # px.scatter_map (MapLibre) requires >=5.24; older releases only have scatter_mapbox
+    "requests>=2.32",
+    "python-dotenv>=1.0",
+    "anthropic>=0.34",
+    "mcp>=1.6,<2",  # mcp 2.x renamed FastMCP -> MCPServer and changed the tool-registration
+                    # API; server.py is written against the 1.x FastMCP decorator API
+                    # documented in mcp 1.x. Upgrading to 2.x is a deliberate follow-on task
+                    # (rewrite mcp_server/server.py against MCPServer), not a drop-in bump.
+    "imdtrack>=0.3,<0.4",  # ingestion/cyclone_imd.py's real-data path: the IMD RSMC New
+                    # Delhi North Indian Ocean cyclone best-track record. Falls back to
+                    # data/real/imd_cyclone_besttrack.csv (a frozen snapshot) if the
+                    # package or its live source is unreachable -- see that module's
+                    # docstring and load_best_track().
+]
+# V1 deliberately ships on a light, pure-Python-installable stack (TF-IDF retrieval
+# instead of a transformer embedding model, plotly scatter_mapbox instead of a full
+# GIS stack) so it installs and runs on a CPU-only laptop with no GDAL toolchain and
+# no multi-GB model download. See the "gis" and "semantic-rag" extras below for the
+# documented, drop-in upgrade path once more install budget/hardware is available —
+# every module that would change is named in docs/architecture.md.
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+    "hypothesis>=6.100",
+    "ruff>=0.5",
+    "mypy>=1.10",
+    "pip-audit>=2.7",
+]
+gis = [
+    "geopandas>=0.14",
+    "rasterio>=1.3",
+    "shapely>=2.0",
+]
+semantic-rag = [
+    "chromadb>=0.5",
+    "sentence-transformers>=3.0",
+]
+orchestration = [
+    "langgraph>=0.2",
+]
+augmentation = [
+    "diffusers>=0.29",
+    "torch>=2.3",
+]
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.mypy]
+python_version = "3.11"
+ignore_missing_imports = true
+disable_error_code = ["import-untyped"]
+warn_unused_ignores = true
+check_untyped_defs = true

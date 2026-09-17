@@ -1,0 +1,30 @@
+[SOURCE: Basel Committee on Banking Supervision (BIS) — A framework for the voluntary
+disclosure of climate-related financial risks, 2024. PARAPHRASED summary for RAG pipeline
+development and testing, not a verbatim reproduction. Replace with the verbatim BIS
+publication (bis.org/bcbs/publ/d597.htm) before any real disclosure use.]
+
+[DOC_ID: BIS-2024-CLIMATE-DISC]
+[REGULATOR: Basel Committee on Banking Supervision (BIS)]
+[PUBLISHED: 2024-06-17]
+[DOC_URL: https://www.bis.org/bcbs/publ/d597.htm]
+
+[SECTION: Purpose]
+The framework provides a common baseline for voluntary disclosure of climate-related
+financial risks by internationally active banks, intended to complement (not replace)
+jurisdiction-specific disclosure requirements such as those issued by national supervisors.
+
+[SECTION: Physical Risk Disclosure]
+Banks are encouraged to disclose quantitative exposure metrics for physical risk, including
+the geographic distribution of credit exposures in areas subject to elevated acute hazard
+(flood, cyclone, wildfire) and chronic hazard (drought, heat stress, sea-level rise), using
+the most granular geographic level practicable.
+
+[SECTION: Transition Risk Disclosure]
+Banks are encouraged to disclose exposure to carbon-intensive sectors and the potential
+impact of policy, technology, and market shifts associated with the transition to a
+lower-carbon economy on asset quality and capital adequacy.
+
+[SECTION: Data and Methodology Caveats]
+Given the evolving state of climate data and methodologies, banks are encouraged to disclose
+the data sources, assumptions, and limitations underlying their climate risk metrics, and to
+update methodologies as better data becomes available.

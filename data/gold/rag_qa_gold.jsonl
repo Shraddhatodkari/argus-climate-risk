@@ -1,0 +1,10 @@
+{"question": "What should entities disclose about the Board's role in climate risk oversight?", "expected_doc_id": "RBI-2024-CLIMATE-DISC", "expected_section": "Governance"}
+{"question": "How should physical risk exposure be disclosed geographically by banks under the BIS framework?", "expected_doc_id": "BIS-2024-CLIMATE-DISC", "expected_section": "Physical Risk Disclosure"}
+{"question": "What are the three NGFS scenario families used in climate stress testing?", "expected_doc_id": "NGFS-SCENARIO-GUIDANCE", "expected_section": "Scenario Families"}
+{"question": "What metrics should entities disclose under the Metrics and Targets pillar?", "expected_doc_id": "RBI-2024-CLIMATE-DISC", "expected_section": "Metrics and Targets"}
+{"question": "What is the difference between acute and chronic physical hazards in NGFS guidance?", "expected_doc_id": "NGFS-SCENARIO-GUIDANCE", "expected_section": "Physical Risk Modeling Guidance"}
+{"question": "What data caveats are banks encouraged to disclose under the BIS climate framework?", "expected_doc_id": "BIS-2024-CLIMATE-DISC", "expected_section": "Data and Methodology Caveats"}
+{"question": "Which regulated entities does the RBI draft disclosure framework apply to first?", "expected_doc_id": "RBI-2024-CLIMATE-DISC", "expected_section": "Phased Applicability"}
+{"question": "How should climate risk be integrated into an entity's overall risk management framework?", "expected_doc_id": "RBI-2024-CLIMATE-DISC", "expected_section": "Risk Management"}
+{"question": "What transition risk exposures are banks encouraged to disclose under BIS guidance?", "expected_doc_id": "BIS-2024-CLIMATE-DISC", "expected_section": "Transition Risk Disclosure"}
+{"question": "How are NGFS scenarios intended to be used in portfolio-level risk assessment?", "expected_doc_id": "NGFS-SCENARIO-GUIDANCE", "expected_section": "Use in Financial Risk Assessment"}

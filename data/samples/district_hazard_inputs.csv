@@ -1,0 +1,9 @@
+district,state,lat,lon,source,is_proxy
+Alappuzha,Kerala,9.4981,76.3388,"District centroid coordinates (public reference)",false
+Kozhikode,Kerala,11.2588,75.7804,"District centroid coordinates (public reference)",false
+Cuttack,Odisha,20.4625,85.8828,"District centroid coordinates (public reference)",false
+Puri,Odisha,19.8135,85.8312,"District centroid coordinates (public reference)",false
+Latur,Maharashtra,18.4088,76.5604,"District centroid coordinates (public reference)",false
+Banda,Uttar Pradesh,25.4762,80.3355,"District centroid coordinates (public reference)",false
+Kamrup,Assam,26.1445,91.7362,"District centroid coordinates (public reference)",false
+Kanchipuram,Tamil Nadu,12.8342,79.7036,"District centroid coordinates (public reference)",false

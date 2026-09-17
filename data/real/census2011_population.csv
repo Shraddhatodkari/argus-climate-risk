@@ -1,0 +1,15 @@
+level,name,state,population_2011,source_url
+state,Kerala,Kerala,33406061,https://www.census2011.co.in/states.php
+state,Odisha,Odisha,41974218,https://www.census2011.co.in/states.php
+state,Maharashtra,Maharashtra,112374333,https://www.census2011.co.in/states.php
+state,Uttar Pradesh,Uttar Pradesh,199812341,https://www.census2011.co.in/states.php
+state,Assam,Assam,31205576,https://www.census2011.co.in/states.php
+state,Tamil Nadu,Tamil Nadu,72147030,https://www.census2011.co.in/states.php
+district,Alappuzha,Kerala,2127789,https://www.censusindia2011.com/kerala/alappuzha-population.html
+district,Kozhikode,Kerala,3086293,https://www.censusindia2011.com/kerala/kozhikode-population.html
+district,Cuttack,Odisha,2624470,https://www.censusindia2011.com/odisha/cuttack-population.html
+district,Puri,Odisha,1698730,https://www.censusindia2011.com/odisha/puri-population.html
+district,Latur,Maharashtra,2454196,https://www.censusindia2011.com/maharashtra/latur-population.html
+district,Banda,Uttar Pradesh,1799410,https://www.censusindia2011.com/uttar-pradesh/banda-population.html
+district,Kamrup,Assam,1517542,https://www.censusindia2011.com/assam/kamrup-population.html
+district,Kanchipuram,Tamil Nadu,3998252,https://www.census2011.co.in/census/district/22-kancheepuram.html

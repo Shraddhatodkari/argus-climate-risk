@@ -1,0 +1,9 @@
+district,true_water_fraction,tile_note,source,is_synthetic
+Alappuzha,0.42,"flood event tile, high water fraction",Synthetic tile generated for NDWI pipeline testing — see docs/data-sources.md,true
+Kozhikode,0.31,"monsoon tile, moderate water fraction",Synthetic tile generated for NDWI pipeline testing — see docs/data-sources.md,true
+Cuttack,0.27,"post-cyclone tile, moderate water fraction",Synthetic tile generated for NDWI pipeline testing — see docs/data-sources.md,true
+Puri,0.19,"coastal baseline tile, low water fraction",Synthetic tile generated for NDWI pipeline testing — see docs/data-sources.md,true
+Latur,0.03,"dry-season baseline tile, minimal water fraction",Synthetic tile generated for NDWI pipeline testing — see docs/data-sources.md,true
+Banda,0.02,"dry-season baseline tile, minimal water fraction",Synthetic tile generated for NDWI pipeline testing — see docs/data-sources.md,true
+Kamrup,0.38,"monsoon flood tile, high water fraction",Synthetic tile generated for NDWI pipeline testing — see docs/data-sources.md,true
+Kanchipuram,0.15,"baseline tile, low water fraction",Synthetic tile generated for NDWI pipeline testing — see docs/data-sources.md,true

@@ -1,0 +1,38 @@
+[SOURCE: RBI — Draft Disclosure Framework on Climate-related Financial Risks, 2024. This
+file is a PARAPHRASED, section-labeled summary prepared for RAG pipeline development and
+testing. It is NOT a verbatim reproduction of the official text. Before any real disclosure
+use, replace with the verbatim PDF from rbi.org.in and re-index.]
+
+[DOC_ID: RBI-2024-CLIMATE-DISC]
+[REGULATOR: Reserve Bank of India]
+[PUBLISHED: 2024-02-28]
+[DOC_URL: https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=4393]
+
+[SECTION: Governance]
+Regulated entities are expected to disclose the role of their Board and senior management
+in overseeing and managing climate-related risks and opportunities, including how climate
+considerations are factored into business strategy, risk appetite, and major transactions.
+
+[SECTION: Strategy]
+Entities should describe the climate-related risks and opportunities identified over the
+short, medium, and long term, and the actual and potential impacts on the business model,
+strategy, and financial planning. Where feasible, entities should describe the resilience
+of their strategy under different climate-related scenarios, including a scenario aligned
+with limiting global warming.
+
+[SECTION: Risk Management]
+Entities should disclose how climate-related risks are identified, assessed, and managed,
+and how these processes are integrated into the entity's overall risk management framework.
+Physical risks (acute, such as floods and cyclones; and chronic, such as shifting rainfall
+patterns) and transition risks (policy, legal, technology, market, and reputation) should
+both be addressed.
+
+[SECTION: Metrics and Targets]
+Entities should disclose the metrics used to assess climate-related risks and opportunities,
+including exposure to physical risk by geography or sector where material, along with any
+targets used to manage climate-related risks and performance against those targets.
+
+[SECTION: Phased Applicability]
+The framework is proposed to apply in a phased manner to Scheduled Commercial Banks, and
+subsequently to NBFCs and other regulated entities above defined thresholds, with disclosures
+expected on a comply-or-explain basis initially.
