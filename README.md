@@ -301,3 +301,30 @@ MIT — see `LICENSE`.
 ## 12. Author
 
 Shraddha Todkari
+
+## Console Screenshots
+
+### Overview & Hazard Map
+
+![Argus Overview and Hazard Map](docs/images/Overview%20%26%20Hazard%20Map.PNG)
+
+### Climate Stress Testing
+
+![Argus Climate Stress Testing](docs/images/Stress%20Testing.PNG)
+
+### Concentration Analysis
+
+![Argus Concentration Analysis](docs/images/Concentration%20Analysis.PNG)
+
+### What-If Analysis
+
+![Argus What-If Analysis](docs/images/What-If%20Analysis.PNG)
+
+### Data Lineage — Sources & Provenance
+
+![Argus Data Lineage Sources](docs/images/argus-data-lineage-sources.png)
+
+### Data Lineage — Methodology & Calculation
+
+![Argus Data Lineage Calculation](docs/images/argus-data-lineage-calculation.png)
+
