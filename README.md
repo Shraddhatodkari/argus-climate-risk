@@ -232,9 +232,6 @@ argus-climate-risk/
 └── .github/workflows/ci.yml
 ```
 
-> **Before pushing:** place the architecture diagram at `docs/argus-architecture-diagram.png`
-> — it is referenced in Section 3 above but is not yet part of this repository.
-
 ## 8. Testing philosophy
 
 Seven categories, all real, all currently passing (`docs/evaluation-report.md` has
